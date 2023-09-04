@@ -25,7 +25,7 @@ var images=[
 "https://lastfm.freetls.fastly.net/i/u/770x0/c975f3fe244f08978a709d349e68b329.jpg#c975f3fe244f08978a709d349e68b329",
 "https://lastfm.freetls.fastly.net/i/u/770x0/4e2cfe83fcc97eec0b1b75869aa09d77.jpg#4e2cfe83fcc97eec0b1b75869aa09d77",
 "https://lastfm.freetls.fastly.net/i/u/770x0/9ea510e6a988b096b2360a9a3b5acae6.jpg#9ea510e6a988b096b2360a9a3b5acae6",
-"https://lastfm.freetls.fastly.net/i/u/770x0/80d8089cc9e9c695e9ce440b670f03c1.jpg#80d8089cc9e9c695e9ce440b670f03c1",~
+"https://lastfm.freetls.fastly.net/i/u/770x0/80d8089cc9e9c695e9ce440b670f03c1.jpg#80d8089cc9e9c695e9ce440b670f03c1",
 
 "https://lastfm.freetls.fastly.net/i/u/770x0/4b0941ad92f01544e862be3feafc6400.jpg#4b0941ad92f01544e862be3feafc6400",
 "https://lastfm.freetls.fastly.net/i/u/770x0/4c50d7bf59493ba2090e6beafb95f561.jpg#4c50d7bf59493ba2090e6beafb95f561",
